@@ -4,5 +4,19 @@ Hi there
 FerroFy Here 
 Website Is Under Development
 
+___
+
+# Linktr.ee
+[Click Here](linktr.ee/ferrofy)
+
+__
+
+#Tasks On Website
+[X] Invite
+[] Home Page
+[] Login Page
+
+___
+
 # Made By
-@vikrant-pathania-2007
+[VPX](linktr.ee/vikrant_pathania)
