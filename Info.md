@@ -9,13 +9,6 @@ ___
 # Linktr.ee
 [Click Here](https://linktr.ee/ferrofy)
 
-__
-
-# Tasks On Website
-[X] Invite
-[] Home Page
-[] Login Page
-
 ___
 
 # Made By
