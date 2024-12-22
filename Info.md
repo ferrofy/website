@@ -7,11 +7,11 @@ Website Is Under Development
 ___
 
 # Linktr.ee
-[Click Here](linktr.ee/ferrofy)
+[Click Here](https://linktr.ee/ferrofy)
 
 __
 
-#Tasks On Website
+# Tasks On Website
 [X] Invite
 [] Home Page
 [] Login Page
@@ -19,4 +19,4 @@ __
 ___
 
 # Made By
-[VPX](linktr.ee/vikrant_pathania)
+[VPX](https://linktr.ee/vikrant_pathania)
